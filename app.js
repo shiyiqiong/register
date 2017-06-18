@@ -6,7 +6,7 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
 var app = express();
 
-//121.40.190.155
+
 var connection = mysql.createConnection({
     host     : '127.0.0.1',
     user     : 'root',
