@@ -1,0 +1,11 @@
+{
+    "name":"register",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "express": "4.15.3",
+        "mysql": "2.13.0",
+        "body-parser": "1.17.2"
+    }
+}
+
